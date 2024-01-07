@@ -1,6 +1,8 @@
 # Kaschemme
 Textbasiertes Würfelspiel
 
+![2024-01-07 15_33_27-Kaschemme v0 0 1](https://github.com/Alsweider/Kaschemme/assets/30653982/ab5207ba-720c-4518-89f6-7336929b25db)
+
 In Kaschemme tritt der Held im Würfelspiel gegen den Stammgast einer zweifelhaften Taverne an. Die Regeln sind die gleichen wie beim Würfelspiel aus dem Browserspiel "[Legend of the Green Dragon](https://de.wikipedia.org/wiki/Legend_of_the_Green_Dragon)":
 
 Der Spieler hat 3 Würfe und darf sich bis zum letzten Wurf entscheiden, ob er die jeweilige Augenzahl behalten möchte. Danach würfelt der Computergegner. Wer am Ende die höhere Augenzahl behalten hat, gewinnt das eingesetzte Gold und die Runde.
