@@ -3,7 +3,7 @@ Textbasiertes Würfelspiel
 
 Hier herunterladen: [Kaschemme](https://github.com/Alsweider/Kaschemme/releases/latest)
 
-![2024-01-09 02_09_28-Kaschemme v0 2 0](https://github.com/Alsweider/Kaschemme/assets/30653982/83d83200-cbc2-412f-887b-972c12cab5d3)
+![2024-01-10 13_58_52-Kaschemme v0 3 0](https://github.com/Alsweider/Kaschemme/assets/30653982/f45ae559-42a3-4092-acfc-fd25cffdb11c)
 
 In Kaschemme tritt der Held im Würfelspiel gegen den Stammgast einer zweifelhaften Taverne an. Die Regeln sind die gleichen wie beim Würfelspiel aus dem Browserspiel "[Legend of the Green Dragon](https://de.wikipedia.org/wiki/Legend_of_the_Green_Dragon)":
 
